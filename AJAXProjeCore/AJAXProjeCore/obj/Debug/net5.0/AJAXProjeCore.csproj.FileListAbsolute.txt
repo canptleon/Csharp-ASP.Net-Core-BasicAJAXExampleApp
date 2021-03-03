@@ -1,0 +1,8 @@
+C:\Users\ardak\source\repos\AJAXProjeCore\AJAXProjeCore\obj\Debug\net5.0\AJAXProjeCore.csprojAssemblyReference.cache
+C:\Users\ardak\source\repos\AJAXProjeCore\AJAXProjeCore\obj\Debug\net5.0\AJAXProjeCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ardak\source\repos\AJAXProjeCore\AJAXProjeCore\obj\Debug\net5.0\AJAXProjeCore.AssemblyInfoInputs.cache
+C:\Users\ardak\source\repos\AJAXProjeCore\AJAXProjeCore\obj\Debug\net5.0\AJAXProjeCore.AssemblyInfo.cs
+C:\Users\ardak\source\repos\AJAXProjeCore\AJAXProjeCore\obj\Debug\net5.0\AJAXProjeCore.csproj.CoreCompileInputs.cache
+C:\Users\ardak\source\repos\AJAXProjeCore\AJAXProjeCore\obj\Debug\net5.0\AJAXProjeCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ardak\source\repos\AJAXProjeCore\AJAXProjeCore\obj\Debug\net5.0\AJAXProjeCore.RazorAssemblyInfo.cache
+C:\Users\ardak\source\repos\AJAXProjeCore\AJAXProjeCore\obj\Debug\net5.0\AJAXProjeCore.RazorAssemblyInfo.cs
